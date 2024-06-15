@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Priyal Shah</h1>
 <h3 align="center">A passionate Data Analyst & Developer</h3>
 
-- Masters in Information Technology **University of North Carolina at Charlotte**
+- Masters in Information Technology from **University of North Carolina at Charlotte**
 
-- Bachelors in Information Technology **Sardar Vallabhbhai Patel Institute of Technology,Vasad**
+- Bachelors in Information Technology  from **Sardar Vallabhbhai Patel Institute of Technology,Vasad**
 
 - 👨‍💻 All of my projects are available at [https://github.com/priyal-11?tab=repositories](https://github.com/priyal-11?tab=repositories)
 
