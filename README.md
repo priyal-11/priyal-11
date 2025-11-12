@@ -46,7 +46,7 @@ Transforming raw data into actionable insights that drive business decisions �
 <img src="https://img.shields.io/badge/📱_+1_(336)_521--6549-FF6B6B?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E74C3C"/>
 </td>
 <td align="center" width="200px">
-<img src="https://img.shields.io/badge/📧_pshah76@uncc.edu-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
+<img src="https://img.shields.io/badge/📧_priyalshah04845@gmail.com-4ECDC4?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=1ABC9C"/>
 </td>
 <td align="center" width="200px">
 <img src="https://img.shields.io/badge/📍_Charlotte,_NC-F39C12?style=for-the-badge&logoColor=white&labelColor=2C3E50&color=E67E22"/>
