@@ -56,7 +56,7 @@ Transforming raw data into actionable insights that drive business decisions ğŸ“
 
 <!-- Professional Network -->
 <p align="center">
-<a href="https://linkedin.com/in/priyal-shah">
+<a href="https://www.linkedin.com/in/priyal-shah11/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=004182" />
 </a>&nbsp;&nbsp;
 <a href="https://github.com/priyal-11">
