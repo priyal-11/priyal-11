@@ -203,7 +203,7 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **DATA ANALYST **
+### 🚀 **DATA ANALYST**
 
 **`Berkshire Hathaway • United States • Jul 2025 – Present`**
 
@@ -264,13 +264,7 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 - **Large-Scale Impact**: Delivered AI travel advisor for **100K+ Paris 2024 travelers**
 
 </td>
-<td width="50%" valign="top">
 
-### 📊 **DATA ANALYST**
-
-
-
-</td>
 </tr>
 </table>
 
