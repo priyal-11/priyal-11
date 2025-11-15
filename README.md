@@ -203,9 +203,9 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 **DATA ANALYST (INTERN)**
+### 🚀 **DATA ANALYST **
 
-**`Essani International LLC • United States • Jul 2025 – Present`**
+**`Berkshire Hathaway • United States • Jul 2025 – Present`**
 
 <img src="https://img.shields.io/badge/📊_Executive_Intelligence-FF6B6B?style=flat-square&labelColor=2C3E50"/>
 
@@ -225,9 +225,9 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 </td>
 <td width="50%" valign="top">
 
-### 🏢 **TEACHING ASSISTANT – DATA ANALYTICS**
+### 🏢 **Operation Analyst**
 
-**`UNC Charlotte • Charlotte, NC • Aug 2024 – May 2025`**
+**`Hexaware Technologies • India • Sep 2021 - Jun 2023`**
 
 <img src="https://img.shields.io/badge/💎_Automation_Innovation-E74C3C?style=flat-square&labelColor=2C3E50"/>
 
@@ -249,9 +249,9 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **MACHINE LEARNING ENGINEER**
+### 🤖 **SQL Developer**
 
-**`Omdena • United States • Aug 2023 – Aug 2024`**
+**`Cybage Software • India • Jan 2021 - Aug 2021`**
 
 <img src="https://img.shields.io/badge/🤖_AI_Innovation-9B59B6?style=flat-square&labelColor=2C3E50"/>
 
@@ -268,22 +268,7 @@ print(f"Status: {achievement_matrix['efficiency']['reporting_time_reduction']} f
 
 ### 📊 **DATA ANALYST**
 
-**`Enlighten Infosystems • India • Jun 2022 – Jun 2023`**
 
-<img src="https://img.shields.io/badge/⚡_ETL_Excellence-E74C3C?style=flat-square&labelColor=2C3E50"/>
-
-- **Automation**: Multi-source ETL workflows with Python & SQL
-- **Efficiency**: Cut reporting time by **40%**, saving **12 hours/week**
-
-<img src="https://img.shields.io/badge/📊_BI_Mastery-1ABC9C?style=flat-square&labelColor=2C3E50"/>
-
-- **Dashboard Development**: Interactive Power BI with complex DAX measures
-- **Business Metrics**: Tracked sales conversion, churn, and agent productivity
-
-<img src="https://img.shields.io/badge/🎯_Problem_Solving-E67E22?style=flat-square&labelColor=2C3E50"/>
-
-- **Critical Fixes**: Resolved data quality issues enhancing reliability
-- **Decision Support**: Enabled data-driven strategic decisions
 
 </td>
 </tr>
